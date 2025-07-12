@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @arnavbhatia1
-- 👀 I’m interested in software development, data science, and information technology
-- 💞️ I’m looking to collaborate on any open source projects to help out the community and any collaboration opportunities!
-- 📫 You can reach me by email and can expect to recieve an answer instantly: arnav.cal@gmail.com
+👋 Hi, I’m @arnavbhatia1  
+👀 I’m interested in software development, data science, platform infrastructure, and IT.  
+💡 Currently building scalable backend systems, improving cloud infrastructure, and designing robust deployment pipelines.  
+✅ I’ve built ML deployment workflows, automated CI/CD pipelines, and re-architected systems to simplify access to thousands of microservices.  
+🔭 I’m learning more about Kubernetes, Terraform, and observability tools to push my skills deeper into platform engineering.  
+💞️ Always happy to collaborate on open source projects and contribute back to the community.
+📫 Reach me anytime at arnav.cal@gmail.com — I’m quick to respond!
 
 <!---
 arnavbhatia1/arnavbhatia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
